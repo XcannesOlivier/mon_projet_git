@@ -1,0 +1,10 @@
+2025-11-03 09:15:22 INFO Application démarrée
+2025-11-03 09:15:25 DEBUG Connexion à la base de données
+2025-11-03 09:15:30 INFO Utilisateur 'alice' connecté
+2025-11-03 09:16:45 WARNING Tentative de connexion échouée pour 'bob'
+2025-11-03 09:17:12 ERROR Erreur de connexion à la base de données
+2025-11-03 09:17:15 INFO Reconnexion automatique réussie
+2025-11-03 09:18:30 INFO Utilisateur 'charlie' connecté
+2025-11-03 09:19:45 DEBUG Traitement de la requête GET /api/users
+2025-11-03 09:20:10 WARNING Limite de taux dépassée pour l'IP 192.168.1.100
+2025-11-03 09:21:30 INFO Utilisateur 'alice' déconnecté

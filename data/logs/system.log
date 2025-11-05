@@ -1,0 +1,6 @@
+2025-11-02 23:45:12 ERROR Échec de sauvegarde automatique
+2025-11-02 23:45:15 INFO Tentative de nouvelle sauvegarde
+2025-11-02 23:46:30 INFO Sauvegarde réussie
+2025-11-03 00:00:01 INFO Rotation des logs effectuée
+2025-11-03 08:00:00 INFO Démarrage du service de maintenance
+2025-11-03 08:15:30 WARNING Espace disque faible : 85% utilisé
